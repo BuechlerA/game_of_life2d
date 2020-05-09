@@ -5,4 +5,4 @@ This project is an implementation of the well known Game of Life by [John Horton
 
 Features:
 - Editing Mode : a paused state where you can edit the cell states
-- Simulation Mode: a state where the game runs
+- Simulation Mode: a state where the game... runs
